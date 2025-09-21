@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:21.09.2025
+## Register Number:25014181
+## Name:LOGESHWARI N
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -9,25 +9,37 @@ A majority of small and marginal farmers in India rely on traditional knowledge,
 
 Impact / Why this problem needs to be solved
 
-Helping small farmers make informed decisions can significantly increase productivity, reduce costs, and improve livelihoods. It also contributes to sustainable farming practices, food security, and environmental conservation. A smart advisory solution can empower farmers with scientific insights in their native language and reduce dependency on unreliable third-party advice.
+Small and marginal farmers must become modern because technology has already been developed and should be implemented in the agricultural field. The progress of our country depends on the modernization of agriculture, and this will only be possible when farmers adopt new techniques, tools, and methods. If farmers are left behind as traditional and underdeveloped, it will hinder the overall growth of the nation. Therefore, it is our responsibility to support them with resources, training, and access to modern facilities so that they can improve productivity and contribute effectively to national development.
+
 
 Expected Outcomes
 
-• A multilingual, AI-based mobile app or chatbot that provides real-time, location-specific crop advisory.
-• Soil health recommendations and fertilizer guidance.
-• Weather-based alerts and predictive insights.
-• Pest/disease detection via image uploads.
-• Market price tracking.
-• Voice support for low-literate users.
-• Feedback and usage data collection for continuous improvement.
+1. Smart Drip Irrigation System (IoT + AI)
+   IoT sensors placed in the soil measure moisture, temperature, and humidity.
+   AI algorithms analyze weather forecasts and crop needs, then automatically regulate the drip irrigation system.
+   Outcome: Saves water, prevents over-irrigation, and ensures crops get just the right amount of water.
+2. AI-Based Multi-Crop Planning Assistant
+   Farmers input their land size, soil type, and budget into a mobile app.
+   An AI model suggests the best multi-crop combinations (e.g., cereals + pulses + vegetables) based on soil fertility, season, and market demand.
+   Outcome: Diversified income, reduced crop failure risk, and improved market value.
+3. IoT Soil Fertility Tracker
+   Low-cost IoT soil sensors detect nutrient levels (NPK – nitrogen, phosphorus, potassium).
+   AI generates a customized fertilizer and organic manure plan for farmers.
+   The system also recommends crop rotation strategies to maintain long-term soil fertility.
+   Outcome: Healthier soil, reduced input costs, and sustainable farming.
+4. AI-Powered Crop Monitoring with Drones
+   Drones capture aerial images of fields.
+   AI processes the images to detect pest attacks, crop diseases, or nutrient deficiencies early.
+   Farmers receive real-time alerts on their phone with treatment suggestions.
+   Outcome: Prevents large-scale crop loss and reduces pesticide overuse.
 
 Relevant Stakeholders / Beneficiaries
 
 • Small and marginal farmers
-• Agricultural extension officers
-• Government agriculture departments
-• NGOs and cooperatives
-• Agri-tech startups
+• Archers and Extinsion services
+• Government and policy makers
+• Producers and consumers
+• Agro industries
 
 Supporting Data
 
