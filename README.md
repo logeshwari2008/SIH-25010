@@ -87,6 +87,8 @@ Reduced water & fertilizer use
 Improved soil health
 Sustainable farming
 Better livelihood for farmers</b></li></ul>
+<img width="693" height="446" alt="Screenshot 2025-09-22 112007" src="https://github.com/user-attachments/assets/298ae4a0-1c06-4f9f-8417-ea4c30c5a582" />
+
 
 ## Feasibility and Viability
 <h3>Sustainability and scalability</h3>
