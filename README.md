@@ -12,6 +12,7 @@ Impact / Why this problem needs to be solved
 Small and marginal farmers must become modern because technology has already been developed and should be implemented in the agricultural field. The progress of our country depends on the modernization of agriculture, and this will only be possible when farmers adopt new techniques, tools, and methods. If farmers are left behind as traditional and underdeveloped, it will hinder the overall growth of the nation. Therefore, it is our responsibility to support them with resources, training, and access to modern facilities so that they can improve productivity and contribute effectively to national development.
 
 
+
 Expected Outcomes
 
 1. Smart Drip Irrigation System (IoT + AI)
@@ -54,7 +55,6 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3> drip irrigation and multi crop sowing</h3>
 <ul><li>Technologies such as drip irrigation, multi-crop sowing, and soil fertility improvement can transform agriculture at the grassroots level. Drip irrigation saves water and delivers it directly to plant roots, ensuring efficiency in water-scarce regions. Multi-crop sowing reduces the risk of crop failure while diversifying income sources, and soil fertility management through organic methods and crop rotation ensures long-term sustainability. These practices, when integrated, create a strong foundation for resilient and productive farming.</li>
 <li>Water Efficiency: Supplies water directly to roots, reducing wastage by 40–60%.
 Cost Saving: Farmers spend less on water and electricity for pumping.
@@ -63,9 +63,11 @@ Better Soil Health: Different crops replenish nutrients naturally, improving fer
 Higher Income: Growing vegetables, cereals, and pulses together increases profit opportunities.</li>
 <li>The uniqueness of this solution lies in integrating modern practices like drip irrigation, multi-crop sowing, and soil fertility management with AI and IoT technologies to directly support small and marginal farmers. Unlike existing approaches, it provides a low-cost, farmer-friendly system that uses sensors and AI to optimize water use, suggest the best crop combinations, and maintain soil health. This innovation not only improves productivity and income but also ensures sustainability, resilience to climate change, and scalability for millions of farmers across the country.</li></ul>
 
+ARCHITECTURE DIAGRAM
+    A[Farm Sensors] --> B[IoT Devices / Edge Processing] --> C[Connectivity -->LoRa --> WiFi --> 4G)]--> D[Cloud Platform]--> E[AI Analysis & Recommendations]--> F[Farmer Mobile App]--> G[Actions: Drip Irrigation | Multi-Crop Planning | Soil Fertility Advice]
+
 ## Technical Approach
-<h3>my technical approach is to work with AI and IOT it has a power to make </h3>
-<ul><li>I used here a framework</li>
+<h3>MY TECHNICAL APPROACH IS TO WORK WITH AI AND IOT</h3>
 <li>flow chart based on my content<b> 
 Flowchart: Smart Farming Solution
 1.Problem
