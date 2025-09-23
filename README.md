@@ -64,7 +64,8 @@ Higher Income: Growing vegetables, cereals, and pulses together increases profit
 <li>The uniqueness of this solution lies in integrating modern practices like drip irrigation, multi-crop sowing, and soil fertility management with AI and IoT technologies to directly support small and marginal farmers. Unlike existing approaches, it provides a low-cost, farmer-friendly system that uses sensors and AI to optimize water use, suggest the best crop combinations, and maintain soil health. This innovation not only improves productivity and income but also ensures sustainability, resilience to climate change, and scalability for millions of farmers across the country.</li></ul>
 
 ARCHITECTURE DIAGRAM
-    A[Farm Sensors] --> B[IoT Devices / Edge Processing] --> C[Connectivity -->LoRa --> WiFi --> 4G)]--> D[Cloud Platform]--> E[AI Analysis & Recommendations]--> F[Farmer Mobile App]--> G[Actions: Drip Irrigation | Multi-Crop Planning | Soil Fertility Advice]
+    <img width="1145" height="651" alt="Screenshot 2025-09-23 091329" src="https://github.com/user-attachments/assets/841b4acf-7e66-4157-ac20-4c9cd7068d3f" />
+
 
 ## Technical Approach
 <h3>MY TECHNICAL APPROACH IS TO WORK WITH AI AND IOT</h3>
